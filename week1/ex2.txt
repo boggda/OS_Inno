@@ -1,11 +1,11 @@
     1  clear
     2  ls /usr/bin/ | sortc -r > week1/ex1.txt
-    3  ls /usr/bin/ | sort -r > week1/ex1.txt
-    4  cat week1/ex1.txt 
-    5  history 
+    3  ls /usr/bin/ | grep gcc | sort -r > week1/ex1.txt
+    4  cat week1/ex1.txt
+    5  history
     6  git add week1/ex1.txt
     7  git commit -m "ex1 added"
     8  git push
     9  ls
-   10  history 
+   10  history
    11  history  > week1/ex2.txt
