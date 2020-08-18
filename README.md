@@ -1,4 +1,4 @@
 #  OPERATING SYSTEMS
 
-Student: Bogdan Kondratev
+Student: Bogdan Kondratev  
 Email: b.kondratyev@innopolis.university
