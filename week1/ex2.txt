@@ -1,11 +1,47 @@
     1  clear
     2  ls /usr/bin/ | sortc -r > week1/ex1.txt
-    3  ls /usr/bin/ | grep gcc | sort -r > week1/ex1.txt
-    4  cat week1/ex1.txt
-    5  history
+    3  ls /usr/bin/ | sort -r > week1/ex1.txt
+    4  cat week1/ex1.txt 
+    5  history 
     6  git add week1/ex1.txt
     7  git commit -m "ex1 added"
     8  git push
     9  ls
-   10  history
+   10  history 
    11  history  > week1/ex2.txt
+   12  git add week1/ex2.txt
+   13  git commit -m "ex2 added"
+   14  git push
+   15  cat week1/ex2.txt 
+   16  date
+   17  man date
+   18  ls
+   19  cd week1/
+   20  touch ex3.sh
+   21  vim ex3.sh 
+   22  chmod +x ex3.sh 
+   23  ./ex3.sh 
+   24  clear
+   25  git add ex3.sh 
+   26  git commit -m "ex3 added"
+   27  git push
+   28  clear
+   29  gedit
+   30  clear
+   31  ls
+   32  cat ls
+   33  ls /usr/bin/ | grep gcc
+   34  ls /usr/bin/ | grep gcc | sort -r > ex1.txt 
+   35  ls
+   36  cat ex1.txt 
+   37  cd ...
+   38  vim ex2.txt 
+   39  git add ex1.txt 
+   40  git add ex2.txt 
+   41  git commit "ex1 fix"
+   42  git commit -m "ex1 fix"
+   43  git push
+   44  cat ex2.txt 
+   45  cat ex1.txt 
+   46  history 
+   47  history > ex2.txt 
