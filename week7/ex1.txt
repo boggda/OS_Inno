@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+ 127723	   4744	   4824	 137291	  2184b	/bin/ls
