@@ -15,7 +15,7 @@ int main(){
 	int* a1 = calloc(n1, sizeof(int));
 	int i;
 	for(i = 0; i < n1; i++)
-  {
+  	{
 		//Set each value in a1 to 100
 		a1[i] = 100;
 		//Print each element out (to make sure things look right)
@@ -32,13 +32,13 @@ int main(){
 
 	//If the new array is a larger size, set all new members to 0. Reason: dont want to use uninitialized variables.
 	if (n2 > n1)
-  {
-    for (int i = n1; i < n2; i++)
-      a1[i] = 0;
-  }
+  	{
+    		for (int i = n1; i < n2; i++)
+      			a1[i] = 0;
+  	}
 
 	for(i = 0; i < n2; i++)
-  {
+  	{
 		//Print each element out (to make sure things look right)
 		printf("%d ", a1[i]);
 	}
