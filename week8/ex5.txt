@@ -1,0 +1,3 @@
+Physical memory addresses are directly related to addresses in RAM,
+but virtual addresses are translated through some page tables.
+Virtual memory is almost always larger than physical memory.

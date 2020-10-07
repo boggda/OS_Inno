@@ -1,0 +1,5 @@
+
+Top shows total memmory and swap usage, cpu usage and some more additional info.
+
+From `top -d 1` we can see that used virtual memmory of process ex2
+is increasing with time.

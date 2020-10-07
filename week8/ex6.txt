@@ -1,0 +1,3 @@
+ 8KB pages is 2^13 bits. So, it is 13 bits for offset.
+ 16-13=3 bits for number => 2^3 = 8 number of pages.
+ Answer: 8
