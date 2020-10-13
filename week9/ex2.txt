@@ -1,0 +1,6 @@
+The hit rate will increase as the number of accesses to the same pages increases.
+This means that if we have a lot of identical numbers in the input file, then the hit rate will be very high.
+And consequently, if a new page is requested every time, the hit rate will be very low.
+
+For example, if the sequence contains only ones, the hit rate will be = 999/1.
+And, if the sequence consists of increasing numbers (0, 1, 2, ...), the hit rate = 0/1000.
