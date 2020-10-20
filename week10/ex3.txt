@@ -1,0 +1,8 @@
+-rw-rw---- 1 root root 2 Oct 20 10:07 ex3.txt
+-rwx---rwx 1 root root 48 Oct 20 10:10 [0m[01;32mex3.txt[0m
+-rwxrwxrwx 1 root root 111 Oct 20 10:10 [0m[01;32mex3.txt[0m
+
+
+1) 660 - read and write for user and group and no priveleges for others
+2) 775 - user and group can read, write and execute file, others can read and execute
+4) 777 - user, group and others can read, write and execute file
