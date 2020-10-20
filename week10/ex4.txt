@@ -1,0 +1,4 @@
+link1:
+	file1
+file1:
+	link1
