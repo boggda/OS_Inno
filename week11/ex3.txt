@@ -1,0 +1,2 @@
+In the first example, "Hello" will be printed twice because the line buffer was not flushed before the fork.
+In the second example, there is new line character, which flushes a line buffer before fork.
